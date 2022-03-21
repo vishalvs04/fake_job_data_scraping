@@ -2,7 +2,7 @@
 The data was used from the site https://realpython.github.io/fake-jobs/<br>
 This repository contains two files:<br>
   <ol>
-    <li>Jupyter Notebook file, having the necessary code.<li>
+    <li>Jupyter Notebook file, having the necessary code.</li>
     <li>fake_job.csv file which contains the data collected from the code and it was passed into the .csv file</li>
   </ol><br>
 
